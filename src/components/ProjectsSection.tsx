@@ -19,6 +19,7 @@ export default class ProjectsSection extends React.Component<any,any>
                 <a className="btn-project" href="http://consinmed.com/" target="_blank">Go to Site</a>
               </div>
             </div>
+            
 
             <div className="project-item soflop">
               <div className="project-backdrop">
